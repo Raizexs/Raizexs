@@ -265,12 +265,12 @@ filosofía: |
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raizexs&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=00D9FF&text_color=00D9FF&icon_color=39FF14" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raizexs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=00D9FF" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raizexs&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=000000&title_color=00D9FF&text_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raizexs&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00D9FF&text_color=00D9FF" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raizexs&theme=chartreuse-dark&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF&sideLabels=00D9FF&dates=00D9FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raizexs&theme=dark&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=00D9FF&sideLabels=00D9FF&dates=00D9FF&stroke=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <br>
