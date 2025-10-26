@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hola, soy Lukas Flores</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Lukas+Flores" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>Estudiante de Ingeniería Informática | Optimización de Sistemas | Scripting & Automatización</em>
@@ -13,10 +15,10 @@
 
 ## 🚀 Sobre Mí
 
-🎓 Estudiante de **Ingeniería Informática** en Chile | **Disponible para prácticas profesionales**  
-💻 Desarrollador con experiencia en **aplicaciones web full-stack** y **sistemas de optimización**  
-🔧 Especialista en **automatización de procesos** mediante scripting (PowerShell, Bash)  
-🌱 Apasionado por el **código limpio**, **arquitectura escalable** y **mejores prácticas**  
+🎓 Estudiante de **Ingeniería Informática** en Chile | **Disponible para prácticas profesionales**
+💻 Desarrollador con experiencia en **aplicaciones web full-stack** y **sistemas de optimización**
+🔧 Especialista en **automatización de procesos** mediante scripting (PowerShell, Bash)
+🌱 Apasionado por el **código limpio**, **arquitectura escalable** y **mejores prácticas**
 🎯 Enfocado en crear **soluciones eficientes** que generen **valor real** a los usuarios
 
 ---
@@ -203,13 +205,9 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raizexs&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile Views"/>
 </p>
-
----
 
 <p align="center">
   <em>"El código limpio no se escribe siguiendo reglas. Se escribe con pasión y disciplina"</em>
