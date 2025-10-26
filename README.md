@@ -148,6 +148,7 @@ filosofía: |
   <img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-%23000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=00D9FF" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=docker&logoColor=00D9FF" alt="Docker"/>
   <img src="https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=Windows&logoColor=00D9FF" alt="Windows"/>
   <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=00D9FF" alt="Linux"/>
 </p>
