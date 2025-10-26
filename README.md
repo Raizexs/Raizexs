@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lukasflores7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/lukaazxs"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-</p>---
+</p>
+
+---
 
 ## 🚀 Sobre Mí
 
