@@ -8,12 +8,12 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=root@lukasflores:~%24+whoami;%3E+Software+Engineer+%7C+Full-Stack+Dev;%3E+System+Optimizer+%7C+Script+Automation;%3E+Always+Learning...+Always+Coding..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=lukas@sistemas:~%24+whoami;%3E+Ingeniero+de+Software+%7C+Full-Stack;%3E+Optimización+de+Sistemas;%3E+Aprendiendo+continuamente..." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" alt="Status"/>
-  <img src="https://img.shields.io/badge/LOCATION-Chile_🇨🇱-00FF41?style=for-the-badge&labelColor=000000" alt="Location"/>
+  <img src="https://img.shields.io/badge/ESTADO-DISPONIBLE_PARA_CONTRATAR-00FF41?style=for-the-badge&labelColor=000000&color=00FF41" alt="Estado"/>
+  <img src="https://img.shields.io/badge/UBICACIÓN-Chile_🇨🇱-00FF41?style=for-the-badge&labelColor=000000" alt="Ubicación"/>
 </p>
 
 <p align="center">
@@ -24,37 +24,37 @@
 <div align="center">
 
 ```bash
-┌──(lukas@localhost)-[~/profile]
-└─$ cat about.txt
+┌──(lukas@sistemas)-[~/perfil]
+└─$ cat sobre_mi.txt
 ```
 
 </div>
 
-## `[PROFILE_DATA]` > QUIEN_SOY.md
+## `[DATOS_PERFIL]` > sobre_mi.md
 
 ```yaml
-user:
-  name: "Lukas Flores"
-  role: "Software Engineer & Systems Architect"
-  status: "Available for internships & projects"
-  location: "Chile 🇨🇱"
+usuario:
+  nombre: "Lukas Flores"
+  rol: "Ingeniero de Software & Arquitecto de Sistemas"
+  estado: "Disponible para prácticas profesionales y proyectos"
+  ubicación: "Chile 🇨🇱"
 
-education:
-  degree: "Ingeniería Informática"
-  institution: "Universidad [Clasificado]"
-  year: "2025"
+educación:
+  grado: "Ingeniería Informática"
+  institución: "Universidad [En Curso]"
+  año: "2025"
 
-specialties:
-  - Full-Stack Web Development
-  - System Optimization & Performance
-  - Process Automation (PowerShell, Bash)
-  - Clean Code & Scalable Architecture
-  - Algorithm Design & Data Structures
+especialidades:
+  - Desarrollo Web Full-Stack
+  - Optimización de Sistemas y Rendimiento
+  - Automatización de Procesos (PowerShell, Bash)
+  - Código Limpio & Arquitectura Escalable
+  - Diseño de Algoritmos & Estructuras de Datos
 
-mindset: |
-  "Code is poetry written in logic.
-   Always learning, always optimizing,
-   always pushing boundaries."
+filosofía: |
+  "El código es poesía escrita en lógica.
+   Siempre aprendiendo, siempre optimizando,
+   siempre superando límites."
 ```
 
 <div align="center">
@@ -65,12 +65,12 @@ mindset: |
 
 </div>
 
-## `[TECH_STACK]` > ./skills --list-all
+## `[STACK_TECNOLÓGICO]` > ./habilidades --listar-todo
 
 <div align="center">
 
 ```bash
-┌─[~/skills/languages]
+┌─[~/habilidades/lenguajes]
 └─$ ls -la
 ```
 
@@ -86,7 +86,7 @@ mindset: |
 <div align="center">
 
 ```bash
-┌─[~/skills/frameworks]
+┌─[~/habilidades/frameworks]
 └─$ cat frameworks.json
 ```
 
@@ -98,8 +98,8 @@ mindset: |
 <div align="center">
 
 ```bash
-┌─[~/skills/automation]
-└─$ ./run_scripts.sh
+┌─[~/habilidades/automatización]
+└─$ ./ejecutar_scripts.sh
 ```
 
 </div>
@@ -110,7 +110,7 @@ mindset: |
 <div align="center">
 
 ```bash
-┌─[~/skills/tools]
+┌─[~/habilidades/herramientas]
 └─$ which git vscode docker
 ```
 
@@ -130,12 +130,12 @@ mindset: |
 
 </div>
 
-## `[PROJECTS]` > ./portfolio --show-featured
+## `[PROYECTOS]` > ./portafolio --mostrar-destacados
 
 <div align="center">
 
 ```bash
-┌─[~/projects]
+┌─[~/proyectos]
 └─$ git log --oneline --all
 ```
 
@@ -144,63 +144,63 @@ mindset: |
 ### `>_` [Taxonomy](https://github.com/Raizexs/Taxonomy) • `C++`
 
 ```
-📦 Educational Evaluation System - Bloom's Taxonomy Implementation
-├─ Complex hierarchical learning evaluation algorithms
-├─ Optimized data structures for efficient processing
-├─ Modular & scalable architecture
-└─ Stack: C++ | OOP | Data Structures | Algorithms
+📦 Sistema de Evaluación Educativa - Implementación Taxonomía de Bloom
+├─ Algoritmos complejos para evaluación jerárquica del aprendizaje
+├─ Estructuras de datos optimizadas para procesamiento eficiente
+├─ Arquitectura modular y escalable
+└─ Stack: C++ | POO | Estructuras de Datos | Algoritmos
 ```
 
 ### `>_` [TaxonomyyJava](https://github.com/Raizexs/TaxonomyyJava) • `Java GUI`
 
 ```
-📦 Desktop Application for Educational System
-├─ Intuitive GUI developed with Java Swing
-├─ MVC Architecture for separation of concerns
-├─ Data validation & robust event handling
-└─ Stack: Java | Swing | MVC | OOP | UX Design
+📦 Aplicación de Escritorio para Sistema Educativo
+├─ Interfaz gráfica intuitiva desarrollada con Java Swing
+├─ Arquitectura MVC para separación de responsabilidades
+├─ Validación de datos y manejo robusto de eventos
+└─ Stack: Java | Swing | MVC | POO | Diseño UX
 ```
 
 ### `>_` [BestFoodPLog](https://github.com/Raizexs/BestFoodPLog) • `Prolog`
 
 ```
-📦 Intelligent Nutritional Management System
-├─ Logic programming applied to real-world food sector problems
-├─ Inference engine for personalized calorie recommendations
-├─ Structured knowledge base with complex business rules
-└─ Stack: Prolog | Expert Systems | Declarative Logic
+📦 Sistema Inteligente de Gestión Nutricional
+├─ Programación lógica aplicada a problemas del sector alimenticio
+├─ Motor de inferencia para recomendaciones personalizadas de calorías
+├─ Base de conocimiento estructurada con reglas de negocio complejas
+└─ Stack: Prolog | Sistemas Expertos | Lógica Declarativa
 ```
 
 ### `>_` [Mini-Amazon](https://github.com/Raizexs/Mini-Amazon) • `JavaScript Vanilla`
 
 ```
-📦 Full-Feature E-commerce Platform - No Frameworks
-├─ Pure JavaScript development (no external frameworks)
-├─ Complete system: cart, favorites, checkout, coupons, shipping
-├─ Data persistence with LocalStorage & efficient state management
-├─ Dark mode, dynamic filters & responsive design
+📦 Plataforma E-commerce Completa - Sin Frameworks
+├─ Desarrollo robusto con JavaScript puro (sin frameworks externos)
+├─ Sistema completo: carrito, favoritos, checkout, cupones, envíos
+├─ Persistencia de datos con LocalStorage y gestión de estado eficiente
+├─ Modo oscuro, filtros dinámicos y diseño responsive
 └─ Stack: JavaScript ES6+ | HTML5 | CSS3 | LocalStorage | DOM
 ```
 
 ### `>_` [GymProFunctional](https://github.com/Raizexs/GymProFunctional) • `Vue.js`
 
 ```
-📦 SaaS Platform for Specialized Gyms
-├─ Modern web app for specific niches (seniors, rehabilitation)
-├─ Custom reservation & class management system
-├─ Accessible design adaptable to special needs
-└─ Stack: Vue.js | SPA | Reusable Components | Responsive Design
+📦 Plataforma SaaS para Gimnasios Especializados
+├─ Aplicación web moderna para nichos específicos (adultos mayores, rehabilitación)
+├─ Sistema de reservas y gestión de clases personalizado
+├─ Diseño accesible y adaptable a necesidades especiales
+└─ Stack: Vue.js | SPA | Componentes Reutilizables | Diseño Responsive
 ```
 
 ### `>_` [Mini-Amazon-Vue](https://github.com/Raizexs/Mini-Amazon-Vue) • `Vue.js + API`
 
 ```
-📦 Advanced E-commerce with External API Integration
-├─ REST API consumption (Mercado Libre) with fallback strategies
-├─ Reviews system, ratings & order management
-├─ SEO optimized for better positioning
-├─ Improved performance & persistent light/dark theme
-└─ Stack: Vue.js | REST API | Axios | SEO | State Management
+📦 E-commerce Avanzado con Integración de APIs Externas
+├─ Consumo de APIs REST (Mercado Libre) con estrategias de fallback
+├─ Sistema de reviews, calificaciones y gestión de pedidos
+├─ Optimizado para SEO y mejor posicionamiento
+├─ Performance mejorado y tema claro/oscuro persistente
+└─ Stack: Vue.js | REST API | Axios | SEO | Gestión de Estado
 ```
 
 <div align="center">
@@ -211,12 +211,12 @@ mindset: |
 
 </div>
 
-## `[STATS]` > gh-stats --fetch
+## `[ESTADÍSTICAS]` > gh-stats --obtener
 
 <div align="center">
 
 ```bash
-┌─[~/stats]
+┌─[~/estadisticas]
 └─$ curl -s https://api.github.com/users/Raizexs | jq
 ```
 
@@ -239,24 +239,24 @@ mindset: |
 
 </div>
 
-## `[ACHIEVEMENTS]` > ./metrics.sh
+## `[LOGROS]` > ./metricas.sh
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS_COMPLETED-6+-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="Proyectos">
-  <img src="https://img.shields.io/badge/LANGUAGES_MASTERED-6+-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="Lenguajes">
+  <img src="https://img.shields.io/badge/PROYECTOS_COMPLETADOS-6+-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="Proyectos">
+  <img src="https://img.shields.io/badge/LENGUAJES_DOMINADOS-6+-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="Lenguajes">
   <img src="https://img.shields.io/badge/FRAMEWORKS-Vue.js_|_Node.js-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="Frameworks">
 </p>
 
 ```yaml
-achievements:
-  projects_completed: 6+
-  paradigms: [OOP, Functional, Logic]
-  specialization: "Vue.js for modern web applications"
-  focus_areas:
-    - System optimization with significant performance improvements
-    - Process automation with advanced scripting
-    - Clean architecture & scalable design patterns
-    - Full-stack development with modern tech stacks
+logros:
+  proyectos_completados: 6+
+  paradigmas: [POO, Funcional, Lógico]
+  especialización: "Vue.js para aplicaciones web modernas"
+  áreas_de_enfoque:
+    - Optimización de sistemas con mejoras significativas de rendimiento
+    - Automatización de procesos mediante scripting avanzado
+    - Arquitectura limpia y patrones de diseño escalables
+    - Desarrollo full-stack con stacks tecnológicos modernos
 ```
 
 <div align="center">
@@ -267,27 +267,27 @@ achievements:
 
 </div>
 
-## `[SKILLS]` > cat professional_competencies.json
+## `[COMPETENCIAS]` > cat competencias_profesionales.json
 
 ```json
 {
-  "software_development": {
-    "software_architecture": "Scalable & maintainable system design",
-    "oop": "Design patterns & SOLID principles",
-    "full_stack": "Frontend & backend with multiple technologies",
-    "clean_code": "Readable, documented & easy to maintain"
+  "desarrollo_software": {
+    "arquitectura_software": "Diseño de sistemas escalables y mantenibles",
+    "poo": "Patrones de diseño y principios SOLID",
+    "full_stack": "Frontend y backend con múltiples tecnologías",
+    "código_limpio": "Legible, documentado y fácil de mantener"
   },
-  "methodologies_tools": {
-    "version_control": "Git flow, branches, pull requests, code review",
-    "debugging_testing": "Efficient bug resolution & code testing",
-    "technical_docs": "README, comments & clear documentation",
-    "problem_solving": "Logical analysis & complex problem resolution"
+  "metodologías_herramientas": {
+    "control_versiones": "Git flow, branches, pull requests, code review",
+    "debugging_testing": "Resolución eficiente de bugs y testing de código",
+    "documentación_técnica": "README, comentarios y documentación clara",
+    "resolución_problemas": "Análisis lógico y resolución de problemas complejos"
   },
-  "soft_skills": {
-    "self_learning": "Quick technology adoption",
-    "teamwork": "Effective collaboration in group projects",
-    "time_management": "Organization & deadline compliance",
-    "communication": "Clear explanation of technical concepts"
+  "habilidades_blandas": {
+    "autoaprendizaje": "Adopción rápida de nuevas tecnologías",
+    "trabajo_equipo": "Colaboración efectiva en proyectos grupales",
+    "gestión_tiempo": "Organización y cumplimiento de deadlines",
+    "comunicación": "Explicación clara de conceptos técnicos"
   }
 }
 ```
@@ -300,22 +300,22 @@ achievements:
 
 </div>
 
-## `[INTERESTS]` > ./interests --list
+## `[INTERESES]` > ./intereses --listar
 
 ```bash
-> Performance Optimization    → Improving Windows system performance
-> Automation                  → Creating efficient scripts for repetitive tasks
-> Web Development             → Modern frontend with Vue.js & JavaScript
-> Algorithms                  → Data structures & efficient solutions
-> Logic Programming           → Exploring alternative paradigms like Prolog
+> Optimización de Rendimiento  → Mejorando el rendimiento de sistemas Windows
+> Automatización                → Creando scripts eficientes para tareas repetitivas
+> Desarrollo Web                → Frontend moderno con Vue.js y JavaScript
+> Algoritmos                    → Estructuras de datos y soluciones eficientes
+> Programación Lógica           → Explorando paradigmas alternativos como Prolog
 ```
 
-## `[LANGUAGES]` > locale -a
+## `[IDIOMAS]` > locale -a
 
 ```ini
-[Languages]
-🇪🇸 Spanish = Native
-🇺🇸 English = B1 (Intermediate)
+[Idiomas]
+🇪🇸 Español = Nativo
+🇺🇸 Inglés  = B1 (Intermedio)
 ```
 
 <div align="center">
@@ -326,20 +326,20 @@ achievements:
 
 </div>
 
-## `[CONTACT]` > ./connect.sh
+## `[CONTACTO]` > ./conectar.sh
 
 <div align="center">
 
 ```bash
-┌─[~/contact]
-└─$ echo "OPEN FOR OPPORTUNITIES"
+┌─[~/contacto]
+└─$ echo "ABIERTO A OPORTUNIDADES"
 ```
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  💼 Available for internships, jobs & freelance projects      ║
-║  🚀 Looking for a developer committed to quality code?        ║
-║  📧 Let's talk about how I can add value to your team!        ║
+║  💼 Disponible para prácticas, empleos y proyectos freelance  ║
+║  🚀 ¿Buscas un desarrollador comprometido con código limpio?  ║
+║  📧 ¡Conversemos sobre cómo puedo agregar valor a tu equipo!  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -355,7 +355,7 @@ achievements:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raizexs&color=00FF41&style=for-the-badge&label=PROFILE_VIEWS&labelColor=000000" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Raizexs&color=00FF41&style=for-the-badge&label=VISTAS_PERFIL&labelColor=000000" alt="Vistas del Perfil"/>
 </p>
 
 <div align="center">
@@ -365,10 +365,10 @@ achievements:
 ```
 
 ```ascii
-  "Clean code is not written by following rules.
-   It's written with passion and discipline."
+  "El código limpio no se escribe siguiendo reglas.
+   Se escribe con pasión y disciplina."
 
-   > Always learning, always evolving...
+   > Siempre aprendiendo, siempre evolucionando...
 ```
 
 ```
