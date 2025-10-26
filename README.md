@@ -8,7 +8,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=lukas@sistemas:~%24+whoami;%3E+Ingeniero+de+Software+%7C+Full-Stack;%3E+Optimización+de+Sistemas;%3E+Aprendiendo+continuamente..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=lukas@root:~%24+whoami;%3E+Ingeniero+de+Software+%7C+Full-Stack;%3E+Optimización+de+Sistemas;%3E+Aprendiendo+continuamente..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,16 +21,20 @@
   <a href="https://x.com/lukaazxs"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=00FF41" alt="X"></a>
 </p>
 
+<br>
+
 <div align="center">
 
 ```bash
-┌──(lukas@sistemas)-[~/perfil]
+┌──(lukas@root)-[~/perfil]
 └─$ cat sobre_mi.txt
 ```
 
 </div>
 
-## `[DATOS_PERFIL]` > sobre_mi.md
+<br>
+
+## 📋 `[DATOS_PERFIL]` > sobre_mi.md
 
 ```yaml
 usuario:
@@ -40,9 +44,9 @@ usuario:
   ubicación: "Chile 🇨🇱"
 
 educación:
-  grado: "Ingeniería Informática"
-  institución: "Universidad [En Curso]"
-  año: "2025"
+  carrera: "Ingeniería en Computación e Informática"
+  institución: "Universidad Andrés Bello"
+  año: "2023"
 
 especialidades:
   - Desarrollo Web Full-Stack
@@ -57,6 +61,8 @@ filosofía: |
    siempre superando límites."
 ```
 
+<br>
+
 <div align="center">
 
 ```
@@ -65,62 +71,88 @@ filosofía: |
 
 </div>
 
-## `[STACK_TECNOLÓGICO]` > ./habilidades --listar-todo
+<br>
+
+## ⚡ `[STACK_TECNOLÓGICO]` > ./habilidades --listar-todo
 
 <div align="center">
 
+### 💻 **Lenguajes de Programación**
+
 ```bash
-┌─[~/habilidades/lenguajes]
+┌──(lukas@root)-[~/habilidades/lenguajes]
 └─$ ls -la
 ```
 
 </div>
 
-![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=00FF41)
-![Prolog](https://img.shields.io/badge/Prolog-%23000000.svg?style=for-the-badge&logo=prolog&logoColor=00FF41)
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=cplusplus&logoColor=00FF41" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=00FF41" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=00FF41" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=00FF41" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Prolog-%23000000.svg?style=for-the-badge&logo=datalog&logoColor=00FF41" alt="Prolog"/>
+</p>
+
+<br>
 
 <div align="center">
 
+### 🚀 **Frameworks & Librerías**
+
 ```bash
-┌─[~/habilidades/frameworks]
+┌──(lukas@root)-[~/habilidades/frameworks]
 └─$ cat frameworks.json
 ```
 
 </div>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-%23000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=00FF41)
-![Node.js](https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-%23000000.svg?style=for-the-badge&logo=vuedotjs&logoColor=00FF41" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Node.js-%23000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41" alt="Node.js"/>
+</p>
+
+<br>
 
 <div align="center">
 
+### ⚙️ **Scripting & Automatización**
+
 ```bash
-┌─[~/habilidades/automatización]
+┌──(lukas@root)-[~/habilidades/automatización]
 └─$ ./ejecutar_scripts.sh
 ```
 
 </div>
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge&logo=powershell&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge&logo=PowerShell&logoColor=00FF41" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=00FF41" alt="Bash"/>
+</p>
+
+<br>
 
 <div align="center">
 
+### 🛠️ **Herramientas & Plataformas**
+
 ```bash
-┌─[~/habilidades/herramientas]
+┌──(lukas@root)-[~/habilidades/herramientas]
 └─$ which git vscode docker
 ```
 
 </div>
 
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-%23000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=00FF41)
-![Windows](https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=windows&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-%23000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=00FF41" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=Windows&logoColor=00FF41" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux"/>
+</p>
+
+<br>
 
 <div align="center">
 
@@ -130,16 +162,20 @@ filosofía: |
 
 </div>
 
-## `[PROYECTOS]` > ./portafolio --mostrar-destacados
+<br>
+
+## 🚀 `[PROYECTOS]` > ./portafolio --mostrar-destacados
 
 <div align="center">
 
 ```bash
-┌─[~/proyectos]
+┌──(lukas@root)-[~/proyectos]
 └─$ git log --oneline --all
 ```
 
 </div>
+
+<br>
 
 ### `>_` [Taxonomy](https://github.com/Raizexs/Taxonomy) • `C++`
 
@@ -203,6 +239,8 @@ filosofía: |
 └─ Stack: Vue.js | REST API | Axios | SEO | Gestión de Estado
 ```
 
+<br>
+
 <div align="center">
 
 ```
@@ -211,16 +249,20 @@ filosofía: |
 
 </div>
 
-## `[ESTADÍSTICAS]` > gh-stats --obtener
+<br>
+
+## 📊 `[ESTADÍSTICAS]` > gh-stats --obtener
 
 <div align="center">
 
 ```bash
-┌─[~/estadisticas]
+┌──(lukas@root)-[~/estadisticas]
 └─$ curl -s https://api.github.com/users/Raizexs | jq
 ```
 
 </div>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raizexs&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=39FF14" alt="GitHub Stats" height="170"/>
@@ -231,6 +273,8 @@ filosofía: |
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raizexs&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak"/>
 </p>
 
+<br>
+
 <div align="center">
 
 ```
@@ -239,7 +283,9 @@ filosofía: |
 
 </div>
 
-## `[LOGROS]` > ./metricas.sh
+<br>
+
+## 🏆 `[LOGROS]` > ./metricas.sh
 
 <p align="center">
   <img src="https://img.shields.io/badge/PROYECTOS_COMPLETADOS-6+-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="Proyectos">
@@ -259,6 +305,8 @@ logros:
     - Desarrollo full-stack con stacks tecnológicos modernos
 ```
 
+<br>
+
 <div align="center">
 
 ```
@@ -267,7 +315,9 @@ logros:
 
 </div>
 
-## `[COMPETENCIAS]` > cat competencias_profesionales.json
+<br>
+
+## 💼 `[COMPETENCIAS]` > cat competencias_profesionales.json
 
 ```json
 {
@@ -292,6 +342,8 @@ logros:
 }
 ```
 
+<br>
+
 <div align="center">
 
 ```
@@ -300,7 +352,9 @@ logros:
 
 </div>
 
-## `[INTERESES]` > ./intereses --listar
+<br>
+
+## 🎯 `[INTERESES]` > ./intereses --listar
 
 ```bash
 > Optimización de Rendimiento  → Mejorando el rendimiento de sistemas Windows
@@ -310,13 +364,17 @@ logros:
 > Programación Lógica           → Explorando paradigmas alternativos como Prolog
 ```
 
-## `[IDIOMAS]` > locale -a
+<br>
+
+## 🌍 `[IDIOMAS]` > locale -a
 
 ```ini
 [Idiomas]
 🇪🇸 Español = Nativo
 🇺🇸 Inglés  = B1 (Intermedio)
 ```
+
+<br>
 
 <div align="center">
 
@@ -326,14 +384,18 @@ logros:
 
 </div>
 
-## `[CONTACTO]` > ./conectar.sh
+<br>
+
+## 📬 `[CONTACTO]` > ./conectar.sh
 
 <div align="center">
 
 ```bash
-┌─[~/contacto]
+┌──(lukas@root)-[~/contacto]
 └─$ echo "ABIERTO A OPORTUNIDADES"
 ```
+
+<br>
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
