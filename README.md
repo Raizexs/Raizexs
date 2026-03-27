@@ -24,7 +24,7 @@
    .cccc'     'c:;..    ├───────────────────────────────┤
   ."'             '".    ​ Learning : Go & AWS
                          ​ Working on : Optimization
-                         └───────────────────────────────┘
+                        └───────────────────────────────┘
 
 ~ 
   λ echo "Clean code is not written by following rules. It is written with passion."
