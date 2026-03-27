@@ -33,13 +33,17 @@
 <br>
 
 <div align="center">
-  <samp><i>Connect With Me</i></samp>
-  <br><br>
-  <b>
-    <a href="https://www.linkedin.com/in/lukasflores7/">🔗 LinkedIn</a> |
-    <a href="https://x.com/lukaazxs">🐦 X (Twitter)</a> |
-    <a href="https://github.com/Raizexs">🧑🏻‍💻 GitHub</a>
-  </b>
+  <samp>
+    <i>Connect With Me</i>
+    <br>
+    <sup>
+      <b>
+        <a href="https://www.linkedin.com/in/lukasflores7/">🔗 LinkedIn</a> |
+        <a href="https://x.com/lukaazxs">🐦 X (Twitter)</a> |
+        <a href="https://github.com/Raizexs">🧑🏻‍💻 GitHub</a>
+      </b>
+    </sup>
+  </samp>
 </div>
 
 <br>
